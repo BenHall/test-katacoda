@@ -1,8 +1,6 @@
 {
-  "pathwayTitle": "Rancher",
-  "icon": "fa-rancher",
-  "title": "Install Rancher - Single Node",
-  "description": "Learn to install Rancher on a Single Node",
+  "title": "Scenario",
+  "description": "Desc",
   "details": {
     "steps": [
       {
@@ -26,15 +24,9 @@
     }
   },
   "environment": {
-    "showdashboard": true,
-    "dashboards": [{
-            "name": "Rancher",
-            "port": 443
-        }],
     "uilayout": "terminal-terminal"
   },
   "backend": {
-    "port": 443,
     "imageid": "docker"
   }
 }
