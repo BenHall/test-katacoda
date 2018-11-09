@@ -33,7 +33,7 @@
             "name": "Rancher",
             "port": 443
         }],
-    "uilayout": "terminal"
+    "uilayout": "terminal-iframe"
   },
   "backend": {
     "port": 443,
