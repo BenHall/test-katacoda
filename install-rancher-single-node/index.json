@@ -39,6 +39,6 @@
   },
   "backend": {
     "port": 443,
-    "imageid": "ranchertry1"
+    "imageid": "ubuntu"
   }
 }
