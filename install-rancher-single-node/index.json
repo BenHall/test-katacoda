@@ -3,6 +3,8 @@
   "icon": "fa-rancher",
   "title": "Install Rancher - Single Node",
   "description": "Learn to install Rancher on a Single Node",
+  "difficulty": "beginner",
+  "time": "5-10 minutes",
   "details": {
     "steps": [
       {
@@ -31,7 +33,7 @@
             "name": "Rancher",
             "port": 443
         }],
-    "uilayout": "terminal-terminal"
+    "uilayout": "terminal"
   },
   "backend": {
     "port": 443,
