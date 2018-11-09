@@ -21,7 +21,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "install-docker.sh"
     },
     "finish": {
       "text": "finish.md"
