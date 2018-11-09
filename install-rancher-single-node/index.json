@@ -24,9 +24,15 @@
     }
   },
   "environment": {
+    "showdashboard": true,
+    "dashboards": [{
+            "name": "Rancher",
+            "port": 443
+        }],
     "uilayout": "terminal-terminal"
   },
   "backend": {
+    "port": 443,
     "imageid": "docker"
   }
 }
