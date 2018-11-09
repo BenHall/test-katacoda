@@ -25,6 +25,7 @@
     }
   },
   "environment": {
+    "showdashboard": true,
     "dashboards": [{
             "name": "Rancher",
             "port": 80
