@@ -38,6 +38,6 @@
   },
   "backend": {
     "port": 443,
-    "imageid": "docker"
+    "imageid": "ranchertry1"
   }
 }
