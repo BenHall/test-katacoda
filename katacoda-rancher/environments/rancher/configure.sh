@@ -1,0 +1,15 @@
+docker pull rancher/rancher:v2.0.2
+docker pull rancher/rancher-agent:v2.0.2
+docker pull rancher/rke-tools:v0.1.8
+docker pull rancher/hyperkube:v1.10.1-rancher2
+docker pull rancher/coreos-etcd:v3.1.12
+docker pull rancher/calico-node:v3.1.1
+docker pull rancher/calico-cni:v3.1.1
+docker pull rancher/coreos-flannel:v0.9.1
+docker pull rancher/pause-amd64:3.1
+docker pull rancher/nginx-ingress-controller-defaultbackend:1.4
+docker pull rancher/k8s-dns-kube-dns-amd64:1.14.8
+docker pull rancher/k8s-dns-dnsmasq-nanny-amd64:1.14.8
+docker pull rancher/k8s-dns-sidecar-amd64:1.14.8
+docker pull rancher/nginx-ingress-controller:0.10.2-rancher3
+docker pull rancher/cluster-proportional-autoscaler-amd64:1.0.0
