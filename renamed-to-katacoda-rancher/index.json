@@ -39,6 +39,7 @@
     },
     "backend": {
         "port": 443,
+        "trainingid": "ubuntu",
         "imageid": "rancher"
     }
 }
