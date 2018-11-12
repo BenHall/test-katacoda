@@ -1,0 +1,12 @@
+{
+    "title": "Workshop",
+    "description": "",
+    "courses": [
+      {
+        "pathway_id": "leodotcloud",
+        "course_id": "install-rancher-single-node",
+        "id": "install-rancher-single-node",
+        "title": "Install Rancher - Single Node"
+      }
+    ]
+  }
